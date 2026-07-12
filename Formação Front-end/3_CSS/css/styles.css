@@ -10,3 +10,11 @@ h3 {
 p {
     color: blueviolet;
 }
+
+/* 8 - classes */
+
+.paragraph {
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
