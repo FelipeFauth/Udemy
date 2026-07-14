@@ -47,3 +47,19 @@ h2 {
 .color-name {
     color: crimson;
 }
+
+/* 12 - hex */
+
+.hex {
+    color: #55a358;
+}
+
+/* 13 - Mais sobre hex */
+
+.simple-hex {
+    color: #333;
+}
+
+.simple-hex-2 {
+    color: #a5f;
+}
